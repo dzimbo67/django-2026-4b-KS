@@ -1,1 +1,1 @@
-# django-2026-KS-4b-KS
+# django-2026-4b-KS
